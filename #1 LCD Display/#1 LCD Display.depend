@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554471691 source:c:\users\ipl_\documents\code\dojo\#1 lcd display\main.c
+	<stdio.h>
+	<stdlib.h>
+
